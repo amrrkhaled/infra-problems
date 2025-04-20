@@ -1,6 +1,5 @@
-# AlgoExpert Infrastructure Course – Bash & SQL Problems
+# Infrastructure Course – Bash & SQL Problems
 
-This repository contains my solutions to the Bash and SQL challenges from the **AlgoExpert Infrastructure Course**. These problems are designed to improve practical scripting and querying skills for working with real infrastructure systems.
 
 ---
 
